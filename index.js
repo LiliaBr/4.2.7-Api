@@ -16,7 +16,6 @@ function init() {
             const options = { 
                 headers: {
                     'Content-Type': 'application/vnd.github+json',
-                    Authorization: 'Bearer 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',
                 }
             }
 
